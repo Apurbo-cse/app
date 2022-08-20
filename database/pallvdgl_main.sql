@@ -3,9 +3,9 @@
 -- https://www.phpmyadmin.net/
 --
 -- Host: localhost:3306
--- Generation Time: Aug 11, 2022 at 09:09 PM
+-- Generation Time: Aug 20, 2022 at 01:14 PM
 -- Server version: 10.3.35-MariaDB-log-cll-lve
--- PHP Version: 7.4.29
+-- PHP Version: 7.4.30
 
 SET SQL_MODE = "NO_AUTO_VALUE_ON_ZERO";
 SET AUTOCOMMIT = 0;
@@ -448,7 +448,60 @@ INSERT INTO `contact_us` (`id`, `name`, `email`, `phone`, `subject`, `message`, 
 (267, 'Crytoken', 'ltmartin.59@gmail.com', '89037687535', 'Reprehendo sicco novus financial instrumentum, quae potest facere vos divites essetis.', 'In ieiunas modo, ut peram crassitudine reperitur. https://Var.echinat.de/Var', '0', '2022-08-10 19:16:08', '2022-08-10 19:16:08'),
 (268, 'Mike Longman', 'no-replyGrouff@gmail.com', '88799985423', 'cheap monthly SEO plans', 'Hi there \r\n \r\nI have just analyzed  pallicraftsltd.com for the ranking keywords and saw that your website could use a push. \r\n \r\nWe will improve your SEO metrics and ranks organically and safely, using only whitehat methods, while providing monthly reports and outstanding support. \r\n \r\nPlease check our plans here, we offer SEO at cheap rates. \r\nhttps://www.hilkom-digital.de/cheap-seo-packages/ \r\n \r\nStart increasing your sales and leads with us, today! \r\n \r\n \r\nregards \r\nMike Longman\r\n \r\nHilkom Digital Team \r\nsupport@hilkom-digital.de', '0', '2022-08-11 07:06:34', '2022-08-11 07:06:34'),
 (269, 'MargaritaAxok', 'lyudochka_kharichkova@mail.ru', '87393684665', 'XEvil 5: The best program for captcha solving was released !!!', 'XEvil 5.0 automatically solve most kind of captchas, \r\nIncluding such type of captchas: ReCaptcha-2, ReCaptcha-3, Hotmail, Google captcha, SolveMedia, BitcoinFaucet, Steam, +12000 \r\n+ hCaptcha supported in new XEvil 6.0! Just search for XEvil 6.0 in YouTube \r\n \r\nInterested? Just google XEvil 6.0 \r\nP.S. Free XEvil Demo is available !! \r\n \r\nAlso, there is a huge discount available for purchase until 30th July: -30%! \r\nStand-alone full license of XEvil price is Just 59 USD \r\n \r\nhttp://XEvil.Net/ \r\n \r\nCheck new video in YouTube: \r\n\"XEvil 6.0 <Beta>1] + XRumer multhithreading hCaptcha test\"', '0', '2022-08-11 15:41:41', '2022-08-11 15:41:41'),
-(270, 'Crytoken', 'jyssai@hotmail.com', '89033195350', 'Hoc robot mos succurro vos ut centum of pupa quotidie.', 'Financial libertatem est, quod quisque eget. https://Var.rbertilsson.se/', '0', '2022-08-11 17:43:44', '2022-08-11 17:43:44');
+(270, 'Crytoken', 'jyssai@hotmail.com', '89033195350', 'Hoc robot mos succurro vos ut centum of pupa quotidie.', 'Financial libertatem est, quod quisque eget. https://Var.rbertilsson.se/', '0', '2022-08-11 17:43:44', '2022-08-11 17:43:44'),
+(271, 'Crytoken', 'rmichaelpusatere624@gmail.com', '89036120692', 'Nulla diam consequat? Sit Robot pecuniam pro te.', 'Buy omnia vis mereri pecuniam. https://Var.rbertilsson.se/', '0', '2022-08-12 21:39:52', '2022-08-12 21:39:52'),
+(272, 'Crytoken', 'kdpcacacrew@hotmail.com', '89033956305', 'Rich people are rich because they use this robot.', 'The best online investment tool is found. Learn more! https://Var.rbertilsson.se/', '0', '2022-08-14 23:56:54', '2022-08-14 23:56:54'),
+(273, 'Crytoken', 'temeka18@hotmail.com', '89038201503', 'Need money? Earn it without leaving your home.', 'Even a child knows how to make money. This robot is what you need! https://Var.rbertilsson.se/', '0', '2022-08-16 04:19:17', '2022-08-16 04:19:17'),
+(274, 'Crytoken', 'julcharity@comcast.net', '89034198251', 'No need to worry about the future if your use this financial robot.', 'Launch the best investment instrument to start making money today. https://Var.rbertilsson.se/', '0', '2022-08-16 14:21:49', '2022-08-16 14:21:49'),
+(275, 'Crytoken', 'galvanemma@yahoo.com', '89036547563', 'See how Robot makes $1000 from $1 of investment.', 'Make your laptop a financial instrument with this program. https://Var.rbertilsson.se/', '0', '2022-08-16 16:29:42', '2022-08-16 16:29:42'),
+(276, 'Crytoken', 'sandyzaremba@yahoo.com', '89035232091', 'Everyone can earn as much as he wants now.', 'Still not a millionaire? Fix it now! https://Var.rbertilsson.se/', '0', '2022-08-16 18:37:15', '2022-08-16 18:37:15'),
+(277, 'Crytoken', 'fbvfoxnv@nrzhbllf.com', '89033609533', 'Financial Robot is #1 investment tool ever. Launch it!', 'The financial Robot is the most effective financial tool in the net! https://Var.rbertilsson.se/', '0', '2022-08-16 20:45:24', '2022-08-16 20:45:24'),
+(278, 'Crytoken', 'jimmanson1@hotmail.com', '89039252482', 'The online income is your key to success.', 'Let the financial Robot be your companion in the financial market. https://Var.rbertilsson.se/', '0', '2022-08-16 22:51:44', '2022-08-16 22:51:44'),
+(279, 'Crytoken', 'mcdowell_dk@yahoo.com', '89030882634', 'Make yourself rich in future using this financial robot.', 'Turn $1 into $100 instantly. Use the financial Robot. https://Var.rbertilsson.se/', '0', '2022-08-17 01:35:40', '2022-08-17 01:35:40'),
+(280, 'Crytoken', 'LLanger00@gmail.com', '89038667791', 'It is the best time to launch the Robot to get more money.', 'Attention! Financial robot may bring you millions! https://Var.rbertilsson.se/', '0', '2022-08-17 03:47:27', '2022-08-17 03:47:27'),
+(281, 'Crytoken', 'evawinemillerphotography@gmail.com', '89038870355', 'The financial Robot is the most effective financial tool in the net!', 'The online financial Robot is your key to success. https://Var.rbertilsson.se/', '0', '2022-08-17 05:57:25', '2022-08-17 05:57:25'),
+(282, 'Crytoken', 'jl_sexy16_908@yahoo.com', '89035003061', 'Rich people are rich because they use this robot.', 'Make $1000 from $1 in a few minutes. Launch the financial robot now. https://Var.rbertilsson.se/', '0', '2022-08-17 08:09:40', '2022-08-17 08:09:40'),
+(283, 'Crytoken', 'Enedocfduibui343@yahoo.com', '89032396926', 'Provide your family with the money in age. Launch the Robot!', 'Automatic robot is the best start for financial independence. https://Var.rbertilsson.se/', '0', '2022-08-17 10:19:45', '2022-08-17 10:19:45'),
+(284, 'Crytoken', 'kath551@hotmail.com', '89037503064', 'Small investments can bring tons of dollars fast.', 'Online job can be really effective if you use this Robot. https://Var.rbertilsson.se/', '0', '2022-08-17 12:30:47', '2022-08-17 12:30:47'),
+(285, 'Crytoken', 'pityu.szabo@yahoo.com', '89035088664', 'Have no money? It’s easy to earn them online here.', 'Make thousands every week working online here. https://Var.rbertilsson.se/', '0', '2022-08-17 15:07:07', '2022-08-17 15:07:07'),
+(286, 'Crytoken', 'knolbl@gmail.com', '89035990580', 'Robot is the best solution for everyone who wants to earn.', 'Start your online work using the financial Robot. https://Var.rbertilsson.se/', '0', '2022-08-17 17:15:39', '2022-08-17 17:15:39'),
+(287, 'Crytoken', 'lkoolblueeyes@aol.com', '89038971320', 'Financial robot keeps bringing you money while you sleep.', 'Make your money work for you all day long. https://Var.rbertilsson.se/', '0', '2022-08-17 19:24:59', '2022-08-17 19:24:59'),
+(288, 'Crytoken', 'ericably@hotmail.com', '89036999160', 'Let your money grow into the capital with this Robot.', 'Attention! Financial robot may bring you millions! https://Var.rbertilsson.se/', '0', '2022-08-17 21:34:08', '2022-08-17 21:34:08'),
+(289, 'Crytoken', 'javier.carro.2001@gmail.com', '89036079281', 'The huge income without investments is available, now!', 'Financial independence is what everyone needs. https://Var.rbertilsson.se/', '0', '2022-08-17 23:42:43', '2022-08-17 23:42:43'),
+(290, 'Crytoken', 'velesystolzea@ymail.org', '89035681466', 'There is no need to look for a job anymore. Work online.', 'Every your dollar can turn into $100 after you lunch this Robot. https://Var.rbertilsson.se/', '0', '2022-08-18 01:51:02', '2022-08-18 01:51:02'),
+(291, 'Crytoken', 'freakout_05@yahoo.com', '89030501716', 'Your computer can bring you additional income if you use this Robot.', 'Looking for additional money? Try out the best financial instrument. https://Var.rbertilsson.se/', '0', '2022-08-18 03:59:48', '2022-08-18 03:59:48'),
+(292, 'Crytoken', 'bp7669@aol.com', '89037741486', 'Need money? Get it here easily! Just press this to launch the robot.', 'Learn how to make hundreds of backs each day. https://Var.rbertilsson.se/', '0', '2022-08-18 06:08:55', '2022-08-18 06:08:55'),
+(293, 'Crytoken', 'purepr76@yahoo.com', '89030165074', 'Make money, not war! Financial Robot is what you need.', 'Making money is very easy if you use the financial Robot. https://Var.rbertilsson.se/', '0', '2022-08-18 08:17:57', '2022-08-18 08:17:57'),
+(294, 'Crytoken', 'ridemanropem@yahoo.com', '89037375657', 'See how Robot makes $1000 from $1 of investment.', 'The online income is the easiest ways to make you dream come true. https://Var.rbertilsson.se/', '0', '2022-08-18 10:27:57', '2022-08-18 10:27:57'),
+(295, 'Crytoken', 'amyj1656@gmail.com', '89033146342', 'Make yourself rich in future using this financial robot.', 'Have no financial skills? Let Robot make money for you. https://Var.rbertilsson.se/', '0', '2022-08-18 12:36:12', '2022-08-18 12:36:12'),
+(296, 'Crytoken', 'memphistilegroutcleaning@maillocal.com', '89031656532', 'Make your laptop a financial instrument with this program.', 'Financial Robot is #1 investment tool ever. Launch it! https://Var.rbertilsson.se/', '0', '2022-08-18 14:46:42', '2022-08-18 14:46:42'),
+(297, 'Crytoken', 'Ozzy42057@hotmail.com', '89032343846', 'Still not a millionaire? The financial robot will make you him!', 'Your money work even when you sleep. https://Var.rbertilsson.se/', '0', '2022-08-18 16:53:36', '2022-08-18 16:53:36'),
+(298, 'Crytoken', 'seatmassager93@hotmail.com', '89032927176', 'The huge income without investments is available.', 'We know how to make our future rich and do you? https://Var.rbertilsson.se/', '0', '2022-08-18 19:01:19', '2022-08-18 19:01:19'),
+(299, 'Crytoken', 'widymatha@gmail.com', '89033595362', 'Earn additional money without efforts.', 'Robot never sleeps. It makes money for you 24/7. https://Var.rbertilsson.se/', '0', '2022-08-18 21:12:00', '2022-08-18 21:12:00'),
+(300, 'Crytoken', 'aleciabarnes@ymail.com', '89034674173', 'Let the financial Robot be your companion in the financial market.', 'No worries if you are fired. Work online. https://Var.rbertilsson.se/', '0', '2022-08-18 23:20:23', '2022-08-18 23:20:23'),
+(301, 'Crytoken', 'fl1psurf3r24@aol.com', '89033876403', 'Financial robot is the best companion of rich people.', 'Financial independence is what everyone needs. https://Var.escueladelcambio.es/', '0', '2022-08-19 01:28:34', '2022-08-19 01:28:34'),
+(302, 'Crytoken', 'kim.zahra1809@outlook.com', '89034209957', 'Trust your dollar to the Robot and see how it grows to $100.', 'No need to work anymore. Just launch the robot. https://Var.escueladelcambio.es/', '0', '2022-08-19 03:41:40', '2022-08-19 03:41:40'),
+(303, 'Crytoken', 'romanscheerle@hotmail.com', '89035944599', 'Financial robot keeps bringing you money while you sleep.', 'The financial Robot works for you even when you sleep. https://Var.escueladelcambio.es/', '0', '2022-08-19 05:53:42', '2022-08-19 05:53:42'),
+(304, 'Crytoken', 'glasshomeservices@hotmail.com', '89030251296', 'Using this Robot is the best way to make you rich.', 'Check out the new financial tool, which can make you rich. https://Var.escueladelcambio.es/', '0', '2022-08-19 08:01:44', '2022-08-19 08:01:44'),
+(305, 'Crytoken', 'breganh@yahoo.com', '89036739985', 'Find out about the easiest way of money earning.', 'The online income is the easiest ways to make you dream come true. https://Var.escueladelcambio.es/', '0', '2022-08-19 10:09:45', '2022-08-19 10:09:45'),
+(306, 'Crytoken', 'sagar.s.haval@cummins.com', '89032019207', 'No need to work anymore. Just launch the robot.', 'Even a child knows how to make $100 today with the help of this robot. https://Var.escueladelcambio.es/', '0', '2022-08-19 12:21:16', '2022-08-19 12:21:16'),
+(307, 'Crytoken', 'smokinj1989@hotmail.com', '89036022075', 'Find out about the fastest way for a financial independence.', 'Launch the best investment instrument to start making money today. https://Var.escueladelcambio.es/', '0', '2022-08-19 14:31:06', '2022-08-19 14:31:06'),
+(308, 'Crytoken', 'Spacecase517@gmail.com', '89032603423', 'No worries if you are fired. Work online.', 'The additional income for everyone. https://Var.escueladelcambio.es/', '0', '2022-08-19 16:42:16', '2022-08-19 16:42:16'),
+(309, 'Crytoken', 'gray_vicki@ymail.com', '89036193488', 'Make money, not war! Financial Robot is what you need.', 'Looking for an easy way to make money? Check out the financial robot. https://Var.escueladelcambio.es/', '0', '2022-08-19 18:52:56', '2022-08-19 18:52:56'),
+(310, 'Crytoken', 'kudiabor@gmail.com', '89039237815', 'Make dollars staying at home and launched this Bot.', 'Everyone who needs money should try this Robot out. https://Var.escueladelcambio.es/', '0', '2022-08-19 21:03:08', '2022-08-19 21:03:08'),
+(311, 'Crytoken', 'rogaye_noroozi_siam@yahoo.com', '89036602651', 'The fastest way to make you wallet thick is here.', 'Financial independence is what everyone needs. https://Var.escueladelcambio.es/', '0', '2022-08-19 23:12:30', '2022-08-19 23:12:30'),
+(312, 'Crytoken', 'sjames@womenstar.com', '89031363896', 'Need money? Get it here easily?', 'The huge income without investments is available. https://Var.escueladelcambio.es/', '0', '2022-08-20 01:19:48', '2022-08-20 01:19:48'),
+(313, 'Crytoken', 'SEXXIGURS15@YAHOO.COM', '89037952471', 'The huge income without investments is available.', 'No need to stay awake all night long to earn money. Launch the robot. https://Var.escueladelcambio.es/', '0', '2022-08-20 03:31:36', '2022-08-20 03:31:36'),
+(314, 'Crytoken', 'Volleyballplayer9@icloud.com', '89033496511', 'Buy everything you want earning money online.', '# 1 financial expert in the net! Check out the new Robot. https://Var.escueladelcambio.es/', '0', '2022-08-20 05:40:51', '2022-08-20 05:40:51'),
+(315, 'Crytoken', 'maanpallavi@yahoo.com', '89037558992', 'Launch the best investment instrument to start making money today.', 'Earn additional money without efforts. https://Var.escueladelcambio.es/', '0', '2022-08-20 07:53:12', '2022-08-20 07:53:12'),
+(316, 'Mike Adderiy', 'no-replyGrouff@gmail.com', '87814998228', 'Get more dofollow backlinks for pallicraftsltd.com', 'Hello \r\n \r\nWe all know the importance that dofollow link have on any website`s ranks. \r\nHaving most of your linkbase filled with nofollow ones is of no good for your ranks and SEO metrics. \r\n \r\nBuy quality dofollow links from us, that will impact your ranks in a positive way \r\nhttps://www.digital-x-press.com/product/150-dofollow-backlinks/ \r\n \r\nBest regards \r\nMike Adderiy\r\n \r\nsupport@digital-x-press.com', '0', '2022-08-20 08:05:00', '2022-08-20 08:05:00'),
+(317, 'Crytoken', 'trinau5f11737@gmails.com', '89031986520', 'The best online investment tool is found. Learn more!', 'We know how to become rich and do you? https://Var.escueladelcambio.es/', '0', '2022-08-20 10:06:11', '2022-08-20 10:06:11'),
+(318, 'Crytoken', 'jhwtfztd@qacddbww.com', '89039759621', 'Financial independence is what this robot guarantees.', 'The huge income without investments is available. https://Var.escueladelcambio.es/', '0', '2022-08-20 12:21:13', '2022-08-20 12:21:13'),
+(319, 'Crytoken', 'coyote1701a@yahoo.com', '89030023898', 'We have found the fastest way to be rich. Find it out here.', 'Let the financial Robot be your companion in the financial market. https://Var.escueladelcambio.es/', '0', '2022-08-20 14:32:55', '2022-08-20 14:32:55'),
+(320, 'Crytoken', 'ej.baglio@yahoo.com', '89039664451', 'Wow! This is a fastest way for a financial independence.', 'Make your computer to be you earning instrument. https://Var.escueladelcambio.es/', '0', '2022-08-20 16:43:55', '2022-08-20 16:43:55'),
+(321, 'Dwain', 'info@an-shinkyu.com', '0379 0574907', 'Palli Crafts || HOME PAGE', 'Morning \r\n \r\nDefrost frozen foods in minutes safely and naturally with our THAW KING™. \r\n\r\n50% OFF for the next 24 Hours ONLY + FREE Worldwide Shipping for a LIMITED \r\n\r\nBuy now: https://thawking.store\r\n \r\nThe Best, \r\n \r\nDwain', '0', '2022-08-20 18:27:19', '2022-08-20 18:27:19'),
+(322, 'Crytoken', 'aharvey210@yahoo.com', '89032330870', 'Robot never sleeps. It makes money for you 24/7.', 'Rich people are rich because they use this robot. https://Var.escueladelcambio.es/', '0', '2022-08-20 18:55:04', '2022-08-20 18:55:04'),
+(323, 'Crytoken', 'cheriya_joey@yahoo.com', '89036945758', 'Wow! This is a fastest way for a financial independence.', 'The financial Robot works for you even when you sleep. https://Var.escueladelcambio.es/', '0', '2022-08-20 21:08:30', '2022-08-20 21:08:30');
 
 -- --------------------------------------------------------
 
@@ -494,7 +547,7 @@ INSERT INTO `fair_trades` (`id`, `title`, `sub_title`, `image`, `status`, `creat
 (8, 'Commitment to Non-discrimination, Gender Equality & Women\'s Economic Empowerment', '<p>Palli Crafts does not discriminate in hiring, remuneration, access to training, promotion, termination, or retirement based on race, caste, national origin, religion, disability, gender, sexual orientation, union membership, political affiliation, HIV/Aids status or age. The organization has a clear policy and plan to promote gender equality that ensures that women as well as men can gain access to the resources that they need to be productive and also the ability to influence the wider policy,regulatory, and institutional environment that shapes their livelihoods and lives. Women who work for us, are paid equally for the same amount of effort. The group is dedicated to ensure that women obtain all of the statutory employment benefits and acknowledges that women have the same employment rights as men.</p>', 'assets/admin/images/fairTrade/1658945538_image_fairTrade.JPG', '1', '2022-07-19 10:40:03', '2022-07-27 22:12:18'),
 (9, 'Ensuring Good Working Conditions', '<p>Palli Crafts has a positive work environment at the production premises as well as the workplaces. The safety and health of our workers is a huge concern. We are doing&nbsp;training programs to improve the efficiency of the employees, producers, and artisans, in addition to inspiring positive attitudes towards their good working conditions. We make&nbsp;sure the workplace equipment is well maintained and&nbsp;workplaces are ventilated.</p>', 'assets/admin/images/fairTrade/1658945713_image_fairTrade.JPG', '1', '2022-07-19 10:40:58', '2022-07-27 22:15:13'),
 (10, 'Providing Capacity Building.', '<p>We improve the abilities and skills of its own employees or producers. We work directly with small producers create specific activities to assist these producers in improving their management skills, production capabilities, and access to markets. Through Fair Trade, the organization aims to increase positive developmental impacts for small, marginalized producers.</p>', 'assets/admin/images/fairTrade/1658946268_image_fairTrade.JPG', '1', '2022-07-19 10:43:42', '2022-07-27 22:24:28'),
-(11, 'Promoting Fair Trade', '<p>Palli Crafts works to increase public knowledge of Fair Commerce\'s objectives. We promote Fair Trade\'s goals and actions. Information about the company, offers and the products are all made available to clients and producers. Sincere marketing and advertising strategies are constantly employed.</p>', 'assets/admin/images/fairTrade/1658945894_image_fairTrade.JPG', '1', '2022-07-19 10:44:28', '2022-07-27 22:18:14'),
+(11, 'Promoting Fair Trade', '<p>Palli Crafts works to increase public knowledge of Fair Commerce\'s objectives. We promote Fair Trade\'s goals and actions. Information about the company, offers and the products are all made available to clients and producers. Sincere marketing and advertising strategies are constantly employed.</p>', 'assets/admin/images/fairTrade/1660402039_image_fairTrade.jpg', '1', '2022-07-19 10:44:28', '2022-08-13 18:47:19'),
 (12, 'Respect for the Environment.', '<p>Palli Crafts Ltd is concerned with the environment, which has been incorporated into the production process-like using non-toxic and AZO-free dyes, encouraging the use of natural fibre products and developing recycled and upcycling products. The products are handmade and require less energy.&nbsp;&nbsp;Palli Crafts&nbsp;offers its workers and/or members a secure and healthy working environment. It at least complies with municipal, state, and federal legislation as well as ILO treaties on health and safety.</p>', 'assets/admin/images/fairTrade/1658944850_image_fairTrade.jpg', '1', '2022-07-19 10:44:49', '2022-07-27 22:00:50');
 
 -- --------------------------------------------------------
@@ -547,7 +600,7 @@ INSERT INTO `materials` (`id`, `title`, `sub_title`, `image`, `image_two`, `imag
 (5, 'Wax Batik', '<p>One of the most prominent techniques that we use is \"<strong>Wax Batik\"</strong>.Wax is applied to the fabric with a block and then it is dyed with expected colors. After coloring, the wax is removed and that\'s how we bring the unique patterns.</p>\r\n<p>&nbsp;</p>\r\n<p>&nbsp;</p>', 'images/material/1660024658_material_one.JPG', 'images/material/1660024658_material_two.JPG', 'images/material/1660024658_material_three.JPG', '1', '2022-07-21 13:12:43', '2022-08-09 10:17:40'),
 (6, 'Hand Weaving', '<p>The&nbsp;<strong>\"</strong><strong>Hand Weaving\"</strong>&nbsp;has given form to many of our products.</p>', 'images/material/1660024871_material_one.JPG', 'images/material/1660024871_material_two.JPG', 'images/material/1660024871_material_three.JPG', '1', '2022-07-21 13:14:22', '2022-08-09 10:01:11'),
 (7, 'Earthenware', '<p>In this era of pollution,&nbsp;<strong>\"Earthenware\"</strong>&nbsp;is indeed a blessing.A&nbsp;spin&nbsp;wheel is used with versatile techniques and ingenuity. A lump of clay is thrown into the wheel and then artisans shape them by hand.Then they are baked in a specific temperature to give it a permanent texture.</p>', 'images/material/1660025534_material_one.jpeg', 'images/material/1660025534_material_two.jpg', 'images/material/1660025534_material_three.png', '1', '2022-07-21 13:16:33', '2022-08-09 10:12:14'),
-(8, 'Wood Carving', '<p>Another way to create spectacular art pieces is \"<strong>Wood Carving</strong>\". Wood carving is a type of woodworking in which people use knives, chisels, and other hand-held wood carving tools to create figures or designs in pieces of wood.</p>', 'images/material/1660026409_material_one.png', 'images/material/1660026409_material_two.png', 'images/material/1660026409_material_three.png', '1', '2022-07-21 13:19:10', '2022-08-09 10:26:49'),
+(8, 'Wood Carving', '<p>Another way to create spectacular art pieces is \"<strong>Wood Carving</strong>\". Wood carving is a type of woodworking in which people use knives, chisels, and other hand-held wood carving tools to create figures or designs in pieces of wood.</p>', 'images/material/1660540434_material_one.JPG', 'images/material/1660540434_material_two.JPG', 'images/material/1660540434_material_three.jpg', '1', '2022-07-21 13:19:10', '2022-08-15 09:13:54'),
 (9, 'Basket Weaving', '<p>We have also kept the rural art of \"<strong>Basket Weaving</strong>\".The basic process of basket making involves&nbsp; weaving strands of fiber, jute,palm.leaf,hogla leaf,date leaf over and under each other to create a particular shape.It serves the purpose of home decor and everyday use.</p>', 'images/material/1660026088_material_one.JPG', 'images/material/1660026088_material_two.JPG', 'images/material/1660026088_material_three.JPG', '1', '2022-07-21 13:20:39', '2022-08-09 10:21:28'),
 (10, 'Recycling and Upcycling', '<p>The technique of \"<strong>Recycling and Upcycling</strong>\" includes old clothes or materials and then they are decorated with hand weaving and added embroideries giving an approbative appearance.</p>', 'images/material/1660026302_material_one.JPG', 'images/material/1660026302_material_two.JPG', 'images/material/1660026302_material_three.JPG', '1', '2022-07-21 13:21:21', '2022-08-09 10:25:02');
 
@@ -593,9 +646,9 @@ CREATE TABLE `memberships` (
 --
 
 INSERT INTO `memberships` (`id`, `title`, `image`, `status`, `created_at`, `updated_at`) VALUES
-(5, 'Ecota Fair Trade Forum', 'assets/admin/images/membership/1656778195_membership.png', '1', '2022-06-25 13:55:18', '2022-07-02 20:09:55'),
-(6, 'Export Promotion Bureau', 'assets/admin/images/membership/1656778296_membership.png', '1', '2022-06-25 13:55:25', '2022-07-02 20:11:36'),
-(7, 'Banglacraft', 'assets/admin/images/membership/1656778465_membership.jpg', '1', '2022-06-25 13:55:31', '2022-07-02 20:14:25');
+(5, 'Ecota Fair Trade Forum', 'assets/admin/images/membership/1660411328_membership.png', '1', '2022-06-25 13:55:18', '2022-08-13 21:22:08'),
+(6, 'Export Promotion Bureau', 'assets/admin/images/membership/1660411356_membership.png', '1', '2022-06-25 13:55:25', '2022-08-13 21:22:36'),
+(7, 'Banglacraft', 'assets/admin/images/membership/1660411368_membership.jpg', '1', '2022-06-25 13:55:31', '2022-08-13 21:22:48');
 
 -- --------------------------------------------------------
 
@@ -650,6 +703,13 @@ CREATE TABLE `newsletters` (
   `created_at` timestamp NULL DEFAULT NULL,
   `updated_at` timestamp NULL DEFAULT NULL
 ) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_unicode_ci;
+
+--
+-- Dumping data for table `newsletters`
+--
+
+INSERT INTO `newsletters` (`id`, `email`, `status`, `created_at`, `updated_at`) VALUES
+(3, 'apurboka@gmail.com', '1', '2022-08-13 18:33:00', '2022-08-13 18:33:00');
 
 -- --------------------------------------------------------
 
@@ -738,7 +798,7 @@ INSERT INTO `products` (`id`, `title`, `slug`, `product_id`, `short_desc`, `deta
 (4, 'New...', 'new', '7275', 'Lorem', '<p>Lorem</p>', 'images/product/16600338517275.JPG', NULL, NULL, NULL, NULL, 0.0, 0.00, 'L', 52, '1', '1', 1, 2, 2, '2022-08-09 12:30:51', '2022-08-09 12:30:51'),
 (5, 'New .', 'new', '7586', 'Lorem', '<p>LOrem</p>', 'images/product/16600340167586.JPG', NULL, NULL, NULL, NULL, 0.0, 0.00, 'XL', 24, '1', '1', 2, 2, 2, '2022-08-09 12:33:36', '2022-08-09 12:33:36'),
 (6, 'lorem.', 'lorem', '7164', 'Lorem', '<p>lo</p>', 'images/product/16600345887164.JPG', 'images/product/16600395677177.JPG', NULL, NULL, NULL, 0.0, 0.00, 'L', 80, '1', '1', 1, 3, 7, '2022-08-09 12:43:08', '2022-08-09 14:06:07'),
-(7, 'New..', 'new', '7180', 'Lorem', '<p>Lorem</p>', 'images/product/16600398437180.JPG', 'images/product/16600398437182.JPG', NULL, NULL, NULL, 0.0, 0.00, 'L', 60, '1', '1', 2, 3, 7, '2022-08-09 14:10:43', '2022-08-09 14:10:43'),
+(7, 'New..', 'new', '7180', 'Lorem', '<p>Lorem</p>', 'images/product/16600398437180.JPG', 'images/product/16600398437182.JPG', '', NULL, NULL, 0.0, 0.00, 'L', 60, '1', '1', 2, 3, 7, '2022-08-09 14:10:43', '2022-08-12 20:34:50'),
 (8, 'Lorem', 'lorem', '2767', 'Lorem', '<p>l</p>', 'images/product/16600400732767.JPG', NULL, NULL, NULL, NULL, 0.0, 0.00, 'L', 100, '1', '1', 1, 3, 11, '2022-08-09 14:14:33', '2022-08-09 14:14:33'),
 (9, 'Lorem .', 'lorem', '2794', 'lorem', '<p>Lorem</p>', 'images/product/16600402092794.JPG', NULL, NULL, NULL, NULL, 0.0, 0.00, 'L', 80, '1', '1', 2, 3, 11, '2022-08-09 14:16:49', '2022-08-09 14:16:49'),
 (10, 'Lorem s', 'lorem-s', '2803', 'Lorem', '<p>Lorem</p>', 'images/product/16600404442803.JPG', NULL, NULL, NULL, NULL, 0.0, 0.00, 'M', 50, '1', '1', 2, 3, 11, '2022-08-09 14:20:44', '2022-08-09 14:20:44'),
@@ -763,7 +823,92 @@ INSERT INTO `products` (`id`, `title`, `slug`, `product_id`, `short_desc`, `deta
 (29, 'New cs', 'new-cs', '7140', 'Lorem', '<p>dgfd</p>', 'images/product/16601067467140.JPG', NULL, NULL, NULL, NULL, 0.0, 0.00, 'L', 85, '1', '1', 2, 5, 14, '2022-08-10 08:45:46', '2022-08-10 08:45:46'),
 (30, 'New rds', 'new-rds', '4190', 'Lorem', '<p>Lorem</p>', 'images/product/16601068044190.JPG', NULL, NULL, NULL, NULL, 0.0, 0.00, 'S', 50, '1', '1', 2, 5, 14, '2022-08-10 08:46:44', '2022-08-10 08:46:44'),
 (31, 'New vd', 'new-vd', '1016', 'Lorem', '<p>Lorem</p>', 'images/product/16601068661016.JPG', NULL, NULL, NULL, NULL, 0.0, 0.00, 'l', 19, '1', '1', 2, 5, 14, '2022-08-10 08:47:46', '2022-08-10 08:47:46'),
-(32, 'New vds', 'new-vds', '5152', 'Lorem', '<p>Lorem....&nbsp;</p>', 'images/product/16601069385152.JPG', NULL, NULL, NULL, NULL, 0.0, 0.00, 'X', 92, '1', '1', 2, 5, 14, '2022-08-10 08:48:58', '2022-08-10 08:48:58');
+(32, 'New vds', 'new-vds', '5152', 'Lorem', '<p>Lorem....&nbsp;</p>', 'images/product/16601069385152.JPG', NULL, NULL, NULL, NULL, 0.0, 0.00, 'X', 92, '1', '1', 2, 5, 14, '2022-08-10 08:48:58', '2022-08-10 08:48:58'),
+(33, 'Nms', 'nms', '5843', 'loe', '<p>Lorem</p>', 'images/product/16603690935843.JPG', NULL, NULL, NULL, NULL, 0.0, 0.00, 'L', 60, '1', '1', 2, 3, 8, '2022-08-13 09:38:13', '2022-08-13 09:38:13'),
+(34, 'lc', 'lc', '5851', 'lorem', '<p>Lorem</p>', 'images/product/16603691405851.JPG', NULL, NULL, NULL, NULL, 0.0, 0.00, 'M', 80, '1', '1', 2, 3, 8, '2022-08-13 09:39:00', '2022-08-13 09:39:00'),
+(35, 'Nx', 'nx', '5856', 'lo', '<p>Lorem</p>', 'images/product/16603691895856.JPG', NULL, NULL, NULL, NULL, 0.0, 0.00, 'L', 90, '1', '1', 1, 3, 8, '2022-08-13 09:39:49', '2022-08-13 09:39:49'),
+(36, 'Newr', 'newr', '5859', 'Lore', '<p>Lorem</p>', 'images/product/16603692415859.JPG', NULL, NULL, NULL, NULL, 0.0, 0.00, 'XL', 30, '1', '1', 1, 3, 8, '2022-08-13 09:40:41', '2022-08-13 09:40:41'),
+(37, 'Loriem', 'loriem', '5866', 'Lorem', '<p>Lorem</p>', 'images/product/16603692955866.JPG', NULL, NULL, NULL, NULL, 0.0, 0.00, 'S', 30, '1', '1', 2, 3, 8, '2022-08-13 09:41:35', '2022-08-13 09:41:35'),
+(38, 'P', 'p', '5881', 'Lo', '<p>Lorem</p>', 'images/product/16603693815881.JPG', NULL, NULL, NULL, NULL, 0.0, 0.00, 'L', 3, '1', '1', 1, 3, 8, '2022-08-13 09:43:01', '2022-08-13 09:43:01'),
+(39, 'Lorem . k', 'lorem-k', '5890', 'Lorem', '<p>Lorem</p>', 'images/product/16603695895893.JPG', NULL, NULL, NULL, NULL, 0.0, 0.00, 'M', 50, '1', '1', 1, 3, 8, '2022-08-13 09:45:01', '2022-08-13 09:46:29'),
+(40, 'M', 'm', '5911', 'Mn', '<p>Lorem</p>', 'images/product/16603697195911.JPG', NULL, NULL, NULL, NULL, 0.0, 0.00, 'L', 41, '1', '1', 2, 3, 8, '2022-08-13 09:48:39', '2022-08-13 09:48:39'),
+(41, 'Mx', 'mx', '5917', 'Lorem', '<p>Lorem</p>', 'images/product/16603697655917.JPG', NULL, NULL, NULL, NULL, 0.0, 0.00, 'XL', 50, '1', '1', 2, 3, 8, '2022-08-13 09:49:25', '2022-08-13 09:49:25'),
+(42, 'Nv', 'nv', '5935', 'Lorem', '<p>Lorem</p>', 'images/product/16603698085935.JPG', NULL, NULL, NULL, NULL, 0.0, 0.00, 'L', 32, '1', '1', 1, 3, 8, '2022-08-13 09:50:08', '2022-08-13 09:50:08'),
+(43, 'Lom', 'lom', '5962', 'Lorem', '<p>Lorem</p>', 'images/product/16603698485962.JPG', NULL, NULL, NULL, NULL, 0.0, 0.00, 'L', 60, '1', '1', 1, 3, 8, '2022-08-13 09:50:48', '2022-08-13 09:50:48'),
+(44, 'Kem', 'kem', '5979', 'Lorem', '<p>Lorem</p>', 'images/product/16603698865979.JPG', NULL, NULL, NULL, NULL, 0.0, 0.00, 'L', 26, '1', '1', 2, 3, 8, '2022-08-13 09:51:26', '2022-08-13 09:51:26'),
+(45, 'Lorem mx', 'lorem-mx', '5993', 'Lorem', '<p>Lorem</p>', 'images/product/16603699675993.JPG', NULL, NULL, NULL, NULL, 0.0, 0.00, 'L', 20, '1', '1', 2, 3, 8, '2022-08-13 09:52:47', '2022-08-13 09:52:47'),
+(46, 'Mxs', 'mxs', '6020', 'Lorem', '<p>Lorem</p>', 'images/product/16603700466020.JPG', NULL, NULL, NULL, NULL, 0.0, 0.00, 'L', 32, '1', '1', 2, 3, 8, '2022-08-13 09:54:06', '2022-08-13 09:54:06'),
+(47, 'Mc', 'mc', '0418', 'Lorem', '<p>Lorem</p>', 'images/product/16603704600418.JPG', NULL, NULL, NULL, NULL, 0.0, 0.00, 'L', 50, '1', '1', 1, 2, 3, '2022-08-13 10:01:00', '2022-08-13 10:01:00'),
+(48, '0422', '0422', '0422', 'Lorem', '<p>Lorem</p>', 'images/product/16603705120422.JPG', NULL, NULL, NULL, NULL, 0.0, 0.00, 'L', 52, '1', '1', 1, 2, 3, '2022-08-13 10:01:52', '2022-08-13 10:01:52'),
+(49, '0428', '0428', '0428', 'Lorem', '<p>Lorem</p>', 'images/product/16603705740428.JPG', NULL, NULL, NULL, NULL, 0.0, 0.00, 'L', 92, '1', '1', 2, 2, 3, '2022-08-13 10:02:54', '2022-08-13 10:02:54'),
+(50, '4435', '4435', '4435', 'Lorem', '<p>Lorem</p>', 'images/product/16603706334435.JPG', NULL, NULL, NULL, NULL, 0.0, 0.00, 'L', 63, '1', '1', 2, 2, 3, '2022-08-13 10:03:53', '2022-08-13 10:03:53'),
+(51, '4438', '4438', '4438', 'L', '<p>Lo</p>', 'images/product/16603706734438.JPG', NULL, NULL, NULL, NULL, 0.0, 0.00, 'L', 52, '1', '1', 2, 2, 3, '2022-08-13 10:04:33', '2022-08-13 10:04:33'),
+(52, '4447', '4447', '4447', 'Lorem', '<p>Lorem</p>', 'images/product/16603707304447.JPG', NULL, NULL, NULL, NULL, 0.0, 0.00, 'L', 41, '1', '1', 2, 2, 3, '2022-08-13 10:05:30', '2022-08-13 10:05:30'),
+(53, '5227', '5227', '5227', 'Lo', '<p>Lorem</p>', 'images/product/16603707765227.JPG', NULL, NULL, NULL, NULL, 0.0, 0.00, 'X', 52, '1', '1', 2, 2, 3, '2022-08-13 10:06:16', '2022-08-13 10:06:16'),
+(54, '5257', '5257', '5257', 'Lorem', '<p>L</p>', 'images/product/16603708485257.JPG', NULL, NULL, NULL, NULL, 0.0, 0.00, 'M', 20, '1', '1', 2, 2, 3, '2022-08-13 10:07:28', '2022-08-13 10:07:28'),
+(55, '7109', '7109', '7109', 'Lorem', '<p>Lorem</p>', 'images/product/16603710337109.JPG', NULL, NULL, NULL, NULL, 0.0, 0.00, 'L', 23, '1', '1', 1, 2, 3, '2022-08-13 10:10:33', '2022-08-13 10:10:33'),
+(56, '7234', '7234', '7234', 'Lorem', '<p>Lorem</p>', 'images/product/16603710827234.JPG', NULL, NULL, NULL, NULL, 0.0, 0.00, 'S', 63, '1', '1', 2, 2, 3, '2022-08-13 10:11:22', '2022-08-13 10:11:22'),
+(57, '4404', '4404', '4404', 'Lorem', '<p>Lorem</p>', 'images/product/16603711464404.JPG', NULL, NULL, NULL, NULL, 0.0, 0.00, 'L', 42, '1', '1', 2, 2, 3, '2022-08-13 10:12:26', '2022-08-13 10:12:26'),
+(58, '5066', '5066', '5015', 'Lorem', '<p>Lorem</p>', 'images/product/16603712375015.JPG', NULL, NULL, NULL, NULL, 0.0, 0.00, 'L', 45, '1', '1', 2, 2, 3, '2022-08-13 10:13:57', '2022-08-13 10:13:57'),
+(59, '5037', '5037', '5037', 'Lorem', '<p>Lorem</p>', 'images/product/16603712785037.JPG', NULL, NULL, NULL, NULL, 0.0, 0.00, 'L', 50, '1', '1', 2, 2, 3, '2022-08-13 10:14:38', '2022-08-13 10:14:38'),
+(60, '5058', '5058', '5058', 'Lorem', '<p>Lorem</p>', 'images/product/16603713575058.JPG', NULL, NULL, NULL, NULL, 0.0, 0.00, 'L', 30, '1', '1', 2, 2, 3, '2022-08-13 10:15:57', '2022-08-13 10:15:57'),
+(61, '5093', '5093', '5093', 'Lo', '<p>Lorem</p>', 'images/product/16603713965093.JPG', NULL, NULL, NULL, NULL, 0.0, 0.00, 'L', 59, '1', '1', 1, 2, 3, '2022-08-13 10:16:36', '2022-08-13 10:16:36'),
+(62, '5940', '5940', '5940', 'Lorem', '<p>Lorem</p>', 'images/product/16603714655940.JPG', NULL, NULL, NULL, NULL, 0.0, 0.00, 'L', 11, '1', '1', 2, 2, 3, '2022-08-13 10:17:45', '2022-08-13 10:17:45'),
+(63, '5952', '5952', '5952', 'lorem', '<p>Lorem</p>', 'images/product/16603715175952.JPG', NULL, NULL, NULL, NULL, 0.0, 0.00, 'S', 20, '1', '1', 2, 2, 3, '2022-08-13 10:18:37', '2022-08-13 10:18:37'),
+(64, '4119', '4119', '4119', 'Lorem', '<p>Lorem</p>', 'images/product/16603717484119.JPG', NULL, NULL, NULL, NULL, 0.0, 0.00, 'L', 15, '1', '1', 1, 2, 4, '2022-08-13 10:22:28', '2022-08-13 10:22:28'),
+(65, '7753', '7753', '7753', 'Lorem', '<p>Lorem</p>', 'images/product/16603717907753.JPG', NULL, NULL, NULL, NULL, 0.0, 0.00, 'L', 30, '1', '1', 2, 2, 4, '2022-08-13 10:23:10', '2022-08-13 10:23:10'),
+(66, '7789', '7789', '7789', 'Lorem', '<p>Loerm</p>', 'images/product/16603718407789.JPG', NULL, NULL, NULL, NULL, 0.0, 0.00, 'XL', 20, '1', '1', 2, 2, 4, '2022-08-13 10:24:00', '2022-08-13 10:24:00'),
+(67, '8059', '8059', '8059', 'Lorem', '<p>Lorem</p>', 'images/product/16603720228059.JPG', NULL, NULL, NULL, NULL, 0.0, 0.00, 'XXL', 25, '1', '1', 2, 2, 4, '2022-08-13 10:27:02', '2022-08-13 10:27:02'),
+(68, '1117', '1117', '1117', 'Lore', '<p>lorem</p>', 'images/product/16603720621117.JPG', NULL, NULL, NULL, NULL, 0.0, 0.00, 'L', 60, '1', '1', 2, 2, 4, '2022-08-13 10:27:42', '2022-08-13 10:27:42'),
+(69, '1124', '1124', '1124', 'Lorem', '<p>Lorem</p>', 'images/product/16603721191124.JPG', NULL, NULL, NULL, NULL, 0.0, 0.00, 'S', 35, '1', '1', 2, 2, 4, '2022-08-13 10:28:39', '2022-08-13 10:28:39'),
+(70, '7605', '7605', '7605', 'Lorem', '<p>Lorem</p>', 'images/product/16603721717605.JPG', NULL, NULL, NULL, NULL, 0.0, 0.00, 'X', 21, '1', '1', 1, 2, 4, '2022-08-13 10:29:31', '2022-08-13 10:29:31'),
+(71, '7613', '7613', '7613', 'Lorem', '<p>Lorem</p>', 'images/product/16603722277613.JPG', NULL, NULL, NULL, NULL, 0.0, 0.00, 'L', 10, '1', '1', 1, 2, 4, '2022-08-13 10:30:27', '2022-08-13 10:30:27'),
+(72, '0899', '0899', '0899', 'Lorem', '<p>Lorem</p>', 'images/product/16603723030899.JPG', NULL, NULL, NULL, NULL, 0.0, 0.00, 'S', 32, '1', '1', 2, 2, 4, '2022-08-13 10:31:43', '2022-08-13 10:31:43'),
+(73, '7115', '7115', '7115', 'lorem', '<p>Lorem</p>', 'images/product/16603723657115.JPG', NULL, NULL, NULL, NULL, 0.0, 0.00, 'L', 26, '1', '1', 2, 2, 4, '2022-08-13 10:32:45', '2022-08-13 10:32:45'),
+(74, '0912', '0912', '0912', 'Lorem', '<p>Lorem</p>', 'images/product/16603724230912.JPG', NULL, NULL, NULL, NULL, 0.0, 0.00, 'S', 40, '1', '1', 2, 2, 4, '2022-08-13 10:33:43', '2022-08-13 10:33:43'),
+(75, '0925', '0925', '0925', 'Lorem', '<p>Lorem</p>', 'images/product/16603724740925.JPG', NULL, NULL, NULL, NULL, 0.0, 0.00, 'L', 50, '1', '1', 2, 2, 4, '2022-08-13 10:34:34', '2022-08-13 10:34:34'),
+(76, '2378', '2378', '2378', 'Lorem', '<p>Lorem</p>', 'images/product/16603725212378.JPG', NULL, NULL, NULL, NULL, 0.0, 0.00, 'L', 20, '1', '1', 2, 2, 4, '2022-08-13 10:35:21', '2022-08-13 10:35:21'),
+(77, '2479', '2479', '2479', 'Lorem', '<p>Lorem</p>', 'images/product/16603725692479.JPG', NULL, NULL, NULL, NULL, 0.0, 0.00, 'S', 29, '1', '1', 2, 2, 4, '2022-08-13 10:36:09', '2022-08-13 10:36:09'),
+(78, '2434', '2434', '2434', 'Lorem', '<p>:</p>', 'images/product/16603727032434.JPG', NULL, NULL, NULL, NULL, 0.0, 0.00, 'S', 20, '1', '1', 2, 2, 4, '2022-08-13 10:38:23', '2022-08-13 10:38:23'),
+(79, 'Cup', 'cup', '2539', 'Ceramic', '<p>Lorem</p>', 'images/product/16603728372539.JPG', NULL, NULL, NULL, NULL, 0.0, 0.00, 'L', 53, '1', '1', 2, 2, 4, '2022-08-13 10:40:37', '2022-08-13 17:09:11'),
+(81, 'Kantha Quilt', 'kantha-quilt', '2066', 'cover', '<p>nakshi kantha quilt cover</p>', 'images/product/1660397801new sd.jpg', NULL, NULL, NULL, NULL, 0.0, 0.00, 'm', 33, '1', '1', 4, 2, 2, '2022-08-13 17:36:41', '2022-08-13 17:36:41'),
+(82, 'ew', 'ew', '4349', 'adasd', '<p>sd</p>', 'images/product/16606257554349.PNG', NULL, NULL, 23.00, NULL, 0.0, 0.00, 'l', 45, '1', '1', 4, 4, 26, '2022-08-16 08:55:55', '2022-08-16 08:55:55'),
+(83, 'fdsfsd', 'fdsfsd', '4353', 'dsadas', '<p>fdssdf</p>', 'images/product/16606258964353.PNG', NULL, NULL, 23.00, NULL, 0.0, 0.00, 'l', 43, '1', '1', 4, 4, 26, '2022-08-16 08:58:16', '2022-08-16 08:58:16'),
+(84, 'dgdfg', 'dgdfg', '4362', 'gdfgdf', '<p>dsf</p>', 'images/product/16606260084362.PNG', NULL, NULL, 234.00, NULL, 0.0, 0.00, 'l', 23, '1', '1', 4, 4, 26, '2022-08-16 09:00:08', '2022-08-16 09:00:08'),
+(85, 'dusfsd', 'dusfsd', '4377', 'dsad', '<p>dsf</p>', 'images/product/16606262084377.PNG', NULL, NULL, 21.00, 23.00, 0.0, 0.00, 's', 23, '1', '1', 4, 4, 26, '2022-08-16 09:03:28', '2022-08-16 09:03:28'),
+(86, 'utu', 'utu', '4386', 'uttyur', '<p>ewdsfs</p>', 'images/product/16606264254386.PNG', NULL, NULL, 435.00, 233.00, 0.0, 0.00, 's', 32, '1', '1', 2, 4, 26, '2022-08-16 09:07:05', '2022-08-16 09:07:05'),
+(87, 'hjf', 'hjf', '4389', 'gghfhf', '<p>rewsr</p>', 'images/product/16606266244389.PNG', NULL, NULL, 4323.00, 2334.00, 0.0, 0.00, 's', 32, '1', '1', 2, 4, 26, '2022-08-16 09:10:24', '2022-08-16 09:10:24'),
+(88, 'efwsi', 'efwsi', '8103-01', 'kgda', '<p>jsdfsdf</p>', 'images/product/16606267008103-01.PNG', NULL, NULL, 234.00, 213.00, 0.0, 0.00, 'l', 23, '1', '1', 1, 4, 26, '2022-08-16 09:11:40', '2022-08-16 09:11:40'),
+(89, 'fwds', 'fwds', '5168', 'rete', '<p>qeqw</p>', 'images/product/16606270747805.JPG', NULL, NULL, 234.00, 234.00, 0.0, 0.00, 'l', 23, '1', '1', 4, 4, 28, '2022-08-16 09:17:54', '2022-08-16 09:17:54'),
+(90, 'ff', 'ff', '2332', 'wefwe', '<p>wqeqw</p>', 'images/product/16606271215168.JPG', NULL, NULL, 12312.00, 21312.00, 0.0, 0.00, 'dw', 12, '1', '1', 2, 4, 26, '2022-08-16 09:18:41', '2022-08-16 09:18:41'),
+(91, 'drfsf', 'drfsf', '123421', 'werwqr', '<p>qweqwe</p>', 'images/product/16606271636091.PNG', NULL, NULL, 123.00, 12.00, 0.0, 0.00, '123', 123, '1', '1', 2, 4, 28, '2022-08-16 09:19:23', '2022-08-16 09:19:23'),
+(92, 'sadsa', 'sadsa', '3232', 'asdas', '<p>adasfdas</p>', 'images/product/16606272168103-01.PNG', NULL, NULL, 2112.00, 123.00, 0.0, 0.00, 'asd', 21, '1', '1', 4, 4, 26, '2022-08-16 09:20:17', '2022-08-16 09:20:17'),
+(93, 'ewrwer', 'ewrwer', '12', 'erwe', '<p>43wrwe</p>', 'images/product/16606361611a.PNG', NULL, NULL, 1323.00, 12.00, 0.0, 0.00, 'h', 21, '1', '1', 4, 2, 4, '2022-08-16 11:49:21', '2022-08-16 11:49:21'),
+(94, 'ewrrwe', 'ewrrwe', '2626', 'ewrewr', '<p>rweewr</p>', 'images/product/16606362622626.PNG', NULL, NULL, 212.00, 123.00, 0.0, 0.00, 'l', 21, '1', '1', 4, 2, 4, '2022-08-16 11:51:02', '2022-08-16 11:51:02'),
+(95, 'dsfds', 'dsfds', '5060', 'dsfsdf', '<p>ewre</p>', 'images/product/16606363205060.PNG', NULL, NULL, 231.00, 34.00, 0.0, 0.00, 'l', 23, '1', '1', 2, 2, 4, '2022-08-16 11:52:00', '2022-08-16 11:52:00'),
+(96, 'esdfdsf', 'esdfdsf', '4155', 'sdfsdf', '<p>fsdgdf</p>', 'images/product/16606365354155.PNG', NULL, NULL, 242.00, 213.00, 0.0, 0.00, 'l', 23, '1', '1', 4, 2, 4, '2022-08-16 11:55:35', '2022-08-16 11:55:35'),
+(97, 'ewret', 'ewret', '5076', '234324', '<p>er</p>', 'images/product/16606367155076.PNG', NULL, NULL, 213.00, 21.00, 0.0, 0.00, 'l', 21, '1', '1', 4, 2, 4, '2022-08-16 11:58:35', '2022-08-16 11:58:35'),
+(98, 'rw425', 'rw425', '2527', 'erewter', '<p>sfsdf</p>', 'images/product/16606368072527.PNG', NULL, NULL, 123.00, 21.00, 0.0, 0.00, 'l', 23, '1', '1', 2, 2, 4, '2022-08-16 12:00:07', '2022-08-16 12:00:07'),
+(99, 'ewerwe', 'ewerwe', '2324432', 'rerser', '<p>er</p>', 'images/product/16606369962550.PNG', NULL, NULL, 123.00, 211.00, 0.0, 0.00, 's', 213, '1', '1', 2, 2, 4, '2022-08-16 12:03:16', '2022-08-16 12:03:16'),
+(100, 'tsfsdg', 'tsfsdg', '2578', 'ewrwer', '<p>dfsfsd</p>', 'images/product/16606371102578.PNG', NULL, NULL, 234.00, 213.00, 0.0, 0.00, 'l', 56, '1', '1', 4, 2, 4, '2022-08-16 12:05:10', '2022-08-16 12:05:10'),
+(101, 'trt', 'trt', '2594', 'wqwq', '<p>dgdsg</p>', 'images/product/16606372192594.PNG', NULL, NULL, 23.00, 23.00, 0.0, 0.00, 'l', 43, '1', '1', 4, 2, 4, '2022-08-16 12:06:59', '2022-08-16 12:06:59'),
+(102, 'etert', 'etert', '2667', 'ewrwe', '<p>ewryy</p>', 'images/product/16606374322667.PNG', NULL, NULL, 324.00, 123.00, 0.0, 0.00, 'l', 22, '1', '1', 2, 2, 4, '2022-08-16 12:10:32', '2022-08-16 12:10:32'),
+(103, 'dssaf', 'dssaf', '2355', 'fsfas', '<p>asdfsf</p>', 'images/product/16606377962355.PNG', NULL, NULL, 233.00, 23.00, 0.0, 0.00, 'l', 34, '1', '1', 4, 2, 6, '2022-08-16 12:16:36', '2022-08-16 12:16:36'),
+(104, 'esfsd', 'esfsd', '2359', 'fsdf', '<p>ewtew</p>', 'images/product/16610124222359.JPG', NULL, NULL, 2134.00, 213.00, 0.0, 0.00, 'l', 213, '1', '1', 2, 2, 6, '2022-08-20 20:20:22', '2022-08-20 20:20:22'),
+(105, 'werwe', 'werwe', '2367', 'fsafas', '<p>rfwetr</p>', 'images/product/16610124952367.JPG', NULL, NULL, 2134.00, 21.00, 0.0, 0.00, 'l', 321, '1', '1', 2, 2, 6, '2022-08-20 20:21:35', '2022-08-20 20:21:35'),
+(106, 'awfegr', 'awfegr', '2370', 'rwrq', '<p>31v2eqasav</p>', 'images/product/16610126522370.JPG', NULL, NULL, 2143.00, 4632.00, 0.0, 0.00, 'l', 213, '1', '1', 2, 2, 6, '2022-08-20 20:24:12', '2022-08-20 20:24:12'),
+(107, 'dsfsd', 'dsfsd', '2381', 'rwestgd', '<p>sdgfsd</p>', 'images/product/16610127102381.JPG', NULL, NULL, 234.00, 123.00, 0.0, 0.00, 'l', 213, '1', '1', 4, 2, 6, '2022-08-20 20:25:10', '2022-08-20 20:25:10'),
+(108, 'dwaserfs', 'dwaserfs', '2389', 'asfaf', '<p>wsdf</p>', 'images/product/16610127862389.JPG', NULL, NULL, 343.00, 123.00, 0.0, 0.00, 'l', 213, '1', '1', 2, 2, 6, '2022-08-20 20:26:26', '2022-08-20 20:26:26'),
+(109, 'wetgesd', 'wetgesd', '2431', 'sfdsd', '<p>sdfsdg</p>', 'images/product/16610128682431.JPG', NULL, NULL, 124.00, 123.00, 0.0, 0.00, 'l', 23, '1', '1', 1, 2, 6, '2022-08-20 20:27:48', '2022-08-20 20:27:48'),
+(110, 'efsd', 'efsd', '2412', 'sfsd', '<p>asdfz</p>', 'images/product/16610129592412.JPG', NULL, NULL, 124.00, 12.00, 0.0, 0.00, 'l', 21, '1', '1', 1, 2, 5, '2022-08-20 20:29:19', '2022-08-20 20:29:19'),
+(111, 'sdfgfsdg', 'sdfgfsdg', '2693', 'sdgsd', '<p>sdgsd</p>', 'images/product/16610131422693.JPG', NULL, NULL, 243.00, 123.00, 0.0, 0.00, 'l', 21, '1', '1', 1, 2, 5, '2022-08-20 20:32:22', '2022-08-20 20:32:22'),
+(112, 'erwer', 'erwer', '2718', 'wrwer', '<p>safdsaf</p>', 'images/product/16610131782718.JPG', NULL, NULL, 4231.00, 213.00, 0.0, 0.00, 'm', 213, '1', '1', 4, 2, 5, '2022-08-20 20:32:58', '2022-08-20 20:32:58'),
+(113, 'efsg', 'efsg', '2727', 'sdgds', '<p>wetrt</p>', 'images/product/16610132722727.JPG', NULL, NULL, 2312.00, 123.00, 0.0, 0.00, 's', 21, '1', '1', 1, 2, 5, '2022-08-20 20:34:32', '2022-08-20 20:34:32'),
+(114, 'sdfsd', 'sdfsd', '2733', 'fsdgf', '<p>werfg</p>', 'images/product/16610133352733.JPG', NULL, NULL, 324.00, 123.00, 0.0, 0.00, 'm', 21, '1', '1', 2, 2, 5, '2022-08-20 20:35:35', '2022-08-20 20:35:35'),
+(115, 'westrewtg', 'westrewtg', '2850', 'rwerwe', '<p>sdgs</p>', 'images/product/16610133912850.JPG', NULL, NULL, 2314.00, 123.00, 0.0, 0.00, 'm', 21, '1', '1', 4, 2, 5, '2022-08-20 20:36:31', '2022-08-20 20:36:31'),
+(116, 'wesdfg', 'wesdfg', '2817', 'sdgfd', '<p>sdfsdf</p>', 'images/product/16610134502817.JPG', NULL, NULL, 234.00, 123.00, 0.0, 0.00, 'l', 21, '1', '1', 2, 2, 5, '2022-08-20 20:37:30', '2022-08-20 20:37:30'),
+(117, '3wrterdg', '3wrterdg', '2828', 'sdgf', '<p>sdfg</p>', 'images/product/16610135212828.JPG', NULL, NULL, 2134.00, 123.00, 0.0, 0.00, 'l', 34, '1', '1', 2, 2, 5, '2022-08-20 20:38:41', '2022-08-20 20:38:41'),
+(118, 'wqerws', 'wqerws', '2836', 'sfdsd', '<p>sdfgfs</p>', 'images/product/16610135882836.JPG', NULL, NULL, 234.00, 123.00, 0.0, 0.00, 'l', 34, '1', '1', 2, 2, 5, '2022-08-20 20:39:48', '2022-08-20 20:39:48');
 
 -- --------------------------------------------------------
 
@@ -797,9 +942,7 @@ CREATE TABLE `settings` (
 --
 
 INSERT INTO `settings` (`id`, `logo`, `phone`, `email`, `address`, `whatsapp`, `whatsapp_link`, `facebook_link`, `twitter_link`, `pintorest_link`, `messenger_link`, `about`, `terms_condition`, `privacy_policy`, `refund_policy`, `google_map_link`, `created_at`, `updated_at`) VALUES
-(1, 'assets/admin/images/logo/1655620988_logo.png', '+8801912-143388', 'info@pallicraftsltd.com', '299 Free School Street. Kathalbagan, Dhaka-1205, Bangladesh', '+8801912-143388', 'https://api.whatsapp.com/send?phone=+8801912-143388', 'https://www.facebook.com', 'https://www.twitter.com', 'https://www.pintorest.com', 'https://www.facebook.com/messenger', '<p>The start of our moral journey was in the February of 2019, and since then we have strived to empower talented artisans throughout the country, so that they are able to showcase what they possess. Our centers aim to achieve a sustainable business by adhering to fair-trade rules. Together with the artisans and our knowledgeable team members, we are working towards the goal of taking the art of Bangladeshi handicrafts to another level. To get started on our vision of evolving Bangladeshi artisans and reviving the rich, traditional skills of this country, we have set goals and objectives that we continuously work on to reach. From maintaining fair-trade principles to supporting our artisans through various means, we have been creative and ethical at every step of the way. For our artisans, we provide training and ideas on the principles of fair-trade as well as help them with financial needs. To make them further independent, health education and medical support are also in the works to be provided.</p>\r\n<p>Palli Crafts Limited was established with the help of around 350 artisans from different villages and urban areas. Operating in Dhaka, Savar, Tongi, Jamalpur, Bogra and Kurigram, our products include handicrafts made of jute, leather, ceramic, paper, fabric, terracotta, wood and etc. With a diverse range of both textile and non-textile products, Palli Crafts Limited works tirelessly to protect the rare culture of handicrafts and provide better lives for the artisans who make it possible.</p>\r\n<p>Palli Crafts is working hard to satisfy customers by providing quality and sophisticated products. We design and produce our collection as well as we also develop the customized designs and keep them exclusive. We are currently exporting to Japan, Sweden, Italy, Germany, Australia and United Kingdom.</p>', '<p>The start of our moral journey was in the February of 2019, and since then we have strived to empower talented artisans throughout the country, so that they are able to showcase what they possess. Our centers aim to achieve a sustainable business by adhering to fair-trade rules. Together with the artisans and our knowledgeable team members, we are working towards the goal of taking the art of Bangladeshi handicrafts to another level. To get started on our vision of evolving Bangladeshi artisans and reviving the rich, traditional skills of this country, we have set goals and objectives that we continuously</p>', '<p>The start of our moral journey was in the February of 2019, and since then we have strived to empower talented artisans throughout the country, so that they are able to showcase what they possess. Our centers aim to achieve a sustainable business by adhering to fair-trade rules. Together with the artisans and our knowledgeable team members, we are working towards the goal of taking the art of Bangladeshi handicrafts to another level. To get started on our vision of evolving Bangladeshi artisans and reviving the rich, traditional skills of this country, we have set goals and objectives that we continuously.sdfsdf</p>', '<p>The start of our moral journey was in the February of 2019, and since then we have strived to empower talented artisans throughout the country, so that they are able to showcase what they possess. Our centers aim to achieve a sustainable business by adhering to fair-trade rules. Together with the artisans and our knowledgeable team members, we are working towards the goal of taking the art of Bangladeshi handicrafts to another level. To get started on our vision of evolving Bangladeshi artisans and reviving the rich, traditional skills of this country, we have set goals and objectives that we continuously.fdgdfgd</p>', 'https://www.google.com/maps/embed?pb=!1m14!1m12!1m3!1d14130.857353934944!2d85.36529494999999!3d27.6952226!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!5e0!3m2!1sne!2snp!4v1595323330171!5m2!1sne!2snp', '2022-06-19 00:43:08', '2022-07-29 07:12:20'),
-(3, 'assets/admin/images/logo/1659064667_logo.png', '+8801912-143388', 'info@pallicraftsltd.com', '299 Free School Street. Kathalbagan, Dhaka-1205, Bangladesh', '+8801912-143388', 'https://api.whatsapp.com/send?phone=+8801912-143388', 'https://www.facebook.com', 'https://www.twitter.com', 'https://www.pintorest.com', 'https://www.messenger.com/', 'he start of our moral journey was in the February of 2019, and since then we have strived to empower talented artisans throughout the country, so that they are able to showcase what they possess. Our centers aim to achieve a sustainable business by adhering to fair-trade rules. Together with the artisans and our knowledgeable team members, we are working towards the goal of taking the art of Bangladeshi handicrafts to another level. To get started on our vision of evolving Bangladeshi artisans and reviving the rich, traditional skills of this country, we have set goals and objectives that we continuously work on to reach. From maintaining fair-trade principles to supporting our artisans through various means, we have been creative and ethical at every step of the way. For our artisans, we provide training and ideas on the principles of fair-trade as well as help them with financial needs. To make them further independent, health education and medical support are also in the works to be provided.  Palli Crafts Limited was established with the help of around 350 artisans from different villages and urban areas. Operating in Dhaka, Savar, Tongi, Jamalpur, Bogra and Kurigram, our products include handicrafts made of jute, leather, ceramic, paper, fabric, terracotta, wood and etc. With a diverse range of both textile and non-textile products, Palli Crafts Limited works tirelessly to protect the rare culture of handicrafts and provide better lives for the artisans who make it possible.  Palli Crafts is working hard to satisfy customers by providing quality and sophisticated products. We design and produce our collection as well as we also develop the customized designs and keep them exclusive. We are currently exporting to Japan, Sweden, Italy, Germa', 'The start of our moral journey was in the February of 2019, and since then we have strived to empower talented artisans throughout the country, so that they are able to showcase what they possess. Our centers aim to achieve a sustainable business by adhering to fair-trade rules. Together with the artisans and our knowledgeable team members, we are working towards the goal of taking the art of Bangladeshi handicrafts to another level. To get started on our vision of evolving Bangladeshi artisans and reviving the rich, traditional skills of this country, we have set goals and objectives that we continuously', 'The start of our moral journey was in the February of 2019, and since then we have strived to empower talented artisans throughout the country, so that they are able to showcase what they possess. Our centers aim to achieve a sustainable business by adhering to fair-trade rules. Together with the artisans and our knowledgeable team members, we are working towards the goal of taking the art of Bangladeshi handicrafts to another level. To get started on our vision of evolving Bangladeshi artisans and reviving the rich, traditional skills of this country, we have set goals and objectives that we continuously.', 'The start of our moral journey was in the February of 2019, and since then we have strived to empower talented artisans throughout the country, so that they are able to showcase what they possess. Our centers aim to achieve a sustainable business by adhering to fair-trade rules. Together with the artisans and our knowledgeable team members, we are working towards the goal of taking the art of Bangladeshi handicrafts to another level. To get started on our vision of evolving Bangladeshi artisans and reviving the rich, traditional skills of this country, we have set goals and objectives that we continuously', 'https://www.google.com/maps/embed?pb=!1m14!1m12!1m3!1d14130.857353934944!2d85.36529494999999!3d27.6952226!2m3!1f0!2f0!3f0!3m2!', '2022-07-29 07:17:47', '2022-07-29 07:17:47'),
-(4, 'assets/admin/images/logo/1659803226_logo.PNG', '+8801912-143388', 'info@pallicraftsltd.com', '299 Free School Street. Kathalbagan, Dhaka-1205, Bangladesh', 'https://api.whatsapp.com/send?phone=+8801912-143388', 'https://api.whatsapp.com/send?phone=+8801912-143388', 'https://www.facebook.com', 'https://www.facebook.com', 'https://www.facebook.com', 'https://www.facebook.com', 'fe sdfsd', 'safdsadf', 'afasfsa', 'asfasfsa', 'https://www.google.com/maps/embed?pb=!1m14!1m12!1m3!1d14130.857353934944!2d85.36529494999999!3d27.6952226!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!5e0!3m2!1sne!2snp!4v1595323330171!5m2!1sne!2snp', '2022-08-06 10:27:06', '2022-08-06 10:27:06');
+(1, 'assets/admin/images/logo/1655620988_logo.png', '+8801912-143388', 'info@pallicraftsltd.com', '299 Free School Street. Kathalbagan, Dhaka-1205, Bangladesh', '+8801912-143388', 'https://api.whatsapp.com/send?phone=+8801912-143388', 'https://www.facebook.com', 'https://www.twitter.com', 'https://www.pintorest.com', 'https://www.facebook.com/messenger', '<p>The start of our moral journey was in the February of 2019, and since then we have strived to empower talented artisans throughout the country, so that they are able to showcase what they possess. Our centers aim to achieve a sustainable business by adhering to fair-trade rules. Together with the artisans and our knowledgeable team members, we are working towards the goal of taking the art of Bangladeshi handicrafts to another level. To get started on our vision of evolving Bangladeshi artisans and reviving the rich, traditional skills of this country, we have set goals and objectives that we continuously work on to reach. From maintaining fair-trade principles to supporting our artisans through various means, we have been creative and ethical at every step of the way. For our artisans, we provide training and ideas on the principles of fair-trade as well as help them with financial needs. To make them further independent, health education and medical support are also in the works to be provided.</p>\r\n<p>Palli Crafts Limited was established with the help of around 350 artisans from different villages and urban areas. Operating in Dhaka, Savar, Tongi, Jamalpur, Bogra and Kurigram, our products include handicrafts made of jute, leather, ceramic, paper, fabric, terracotta, wood and etc. With a diverse range of both textile and non-textile products, Palli Crafts Limited works tirelessly to protect the rare culture of handicrafts and provide better lives for the artisans who make it possible.</p>\r\n<p>Palli Crafts is working hard to satisfy customers by providing quality and sophisticated products. We design and produce our collection as well as we also develop the customized designs and keep them exclusive. We are currently exporting to Japan, Sweden, Italy, Germany, Australia and United Kingdom.</p>', '<p>The start of our moral journey was in the February of 2019, and since then we have strived to empower talented artisans throughout the country, so that they are able to showcase what they possess. Our centers aim to achieve a sustainable business by adhering to fair-trade rules. Together with the artisans and our knowledgeable team members, we are working towards the goal of taking the art of Bangladeshi handicrafts to another level. To get started on our vision of evolving Bangladeshi artisans and reviving the rich, traditional skills of this country, we have set goals and objectives that we continuously</p>', '<p>The start of our moral journey was in the February of 2019, and since then we have strived to empower talented artisans throughout the country, so that they are able to showcase what they possess. Our centers aim to achieve a sustainable business by adhering to fair-trade rules. Together with the artisans and our knowledgeable team members, we are working towards the goal of taking the art of Bangladeshi handicrafts to another level. To get started on our vision of evolving Bangladeshi artisans and reviving the rich, traditional skills of this country, we have set goals and objectives that we continuously.sdfsdf</p>', '<p>The start of our moral journey was in the February of 2019, and since then we have strived to empower talented artisans throughout the country, so that they are able to showcase what they possess. Our centers aim to achieve a sustainable business by adhering to fair-trade rules. Together with the artisans and our knowledgeable team members, we are working towards the goal of taking the art of Bangladeshi handicrafts to another level. To get started on our vision of evolving Bangladeshi artisans and reviving the rich, traditional skills of this country, we have set goals and objectives that we continuously.fdgdfgd</p>', 'https://www.google.com/maps/embed?pb=!1m14!1m12!1m3!1d14130.857353934944!2d85.36529494999999!3d27.6952226!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!5e0!3m2!1sne!2snp!4v1595323330171!5m2!1sne!2snp', '2022-06-19 00:43:08', '2022-07-29 07:12:20');
 
 -- --------------------------------------------------------
 
@@ -825,9 +968,10 @@ INSERT INTO `sliders` (`id`, `title`, `sub_title`, `image`, `status`, `created_a
 (9, 'New', 'Lorem...', 'assets/admin/images/slider/1660029091_slider.JPG', '1', '2022-08-09 11:11:31', '2022-08-09 11:11:31'),
 (10, 'New', 'Lorem ..', 'assets/admin/images/slider/1660029129_slider.JPG', '1', '2022-08-09 11:12:09', '2022-08-09 11:12:09'),
 (11, 'New', 'Lorem ...', 'assets/admin/images/slider/1660029157_slider.JPG', '1', '2022-08-09 11:12:37', '2022-08-09 11:12:37'),
-(12, 'New', 'Lorem..', 'assets/admin/images/slider/1660029395_slider.JPG', '1', '2022-08-09 11:16:35', '2022-08-09 11:16:35'),
-(13, 'New', 'LOrem', 'assets/admin/images/slider/1660029420_slider.jpg', '1', '2022-08-09 11:17:00', '2022-08-09 11:17:00'),
-(14, 'New', 'LOrem', 'assets/admin/images/slider/1660029437_slider.JPG', '1', '2022-08-09 11:17:17', '2022-08-09 11:17:17');
+(12, 'New', 'Lorem..', 'assets/admin/images/slider/1660029395_slider.JPG', '1', '2022-08-09 11:16:35', '2022-08-13 17:19:05'),
+(13, 'New', 'LOrem', 'assets/admin/images/slider/1660029420_slider.jpg', '0', '2022-08-09 11:17:00', '2022-08-13 17:19:54'),
+(14, 'New', 'LOrem', 'assets/admin/images/slider/1660029437_slider.JPG', '1', '2022-08-09 11:17:17', '2022-08-09 11:17:17'),
+(15, 'New', 'L', 'assets/admin/images/slider/1660364392_slider.jpg', '1', '2022-08-13 08:19:52', '2022-08-13 08:19:52');
 
 -- --------------------------------------------------------
 
@@ -871,7 +1015,9 @@ INSERT INTO `sub_categories` (`id`, `name`, `slug`, `category_id`, `status`, `cr
 (20, 'Scarf', 'scarf', 5, '0', '2022-06-20 22:43:50', '2022-07-21 21:23:46'),
 (21, 'Tops and Pyjama set', 'tops-and-pyjama-set', 5, '0', '2022-06-20 22:44:13', '2022-07-21 21:23:14'),
 (22, 'T-Shirt', 't-shirt', 5, '0', '2022-06-20 22:44:23', '2022-07-21 21:23:54'),
-(23, 'Other', 'other', 5, '0', '2022-06-20 22:44:46', '2022-07-21 21:24:02');
+(23, 'Other', 'other', 5, '0', '2022-06-20 22:44:46', '2022-07-21 21:24:02'),
+(26, 'Kids', 'kids', 4, '1', '2022-08-13 17:16:02', '2022-08-13 19:44:13'),
+(28, 'Christmas', 'christmas', 4, '1', '2022-08-13 19:26:14', '2022-08-13 19:44:01');
 
 -- --------------------------------------------------------
 
@@ -894,7 +1040,8 @@ CREATE TABLE `tags` (
 
 INSERT INTO `tags` (`id`, `name`, `slug`, `status`, `created_at`, `updated_at`) VALUES
 (1, 'Hot', 'hot', '1', '2022-06-18 22:34:52', '2022-06-18 22:34:52'),
-(2, 'New', 'new', '1', '2022-06-18 22:35:00', '2022-06-18 22:35:00');
+(2, 'New', 'new', '1', '2022-06-18 22:35:00', '2022-06-18 22:35:00'),
+(4, 'Plus', 'plus', '1', '2022-08-13 17:23:21', '2022-08-13 17:23:21');
 
 -- --------------------------------------------------------
 
@@ -948,7 +1095,7 @@ CREATE TABLE `videos` (
 INSERT INTO `videos` (`id`, `title`, `sub_title`, `video`, `status`, `created_at`, `updated_at`) VALUES
 (4, 'BLOCK PRINTING', '<p>Lorem..</p>', 'video/1660047636_video.mp4', '1', '2022-08-09 16:06:17', '2022-08-09 16:20:36'),
 (5, 'NAKSHI KANTHA STITCHING', '<p>Lorem</p>', 'video/1660064157_video.mp4', '1', '2022-08-09 20:55:57', '2022-08-09 20:55:57'),
-(6, 'Waraji Making process.', '<p>Lorem</p>', 'video/1660115532_video.mp4', '1', '2022-08-10 11:08:10', '2022-08-10 11:12:12');
+(6, 'WARAJI MAKING PROCESS', '<p>Lorem</p>', 'video/1660115532_video.mp4', '1', '2022-08-10 11:08:10', '2022-08-10 11:12:12');
 
 --
 -- Indexes for dumped tables
@@ -1138,7 +1285,7 @@ ALTER TABLE `categories`
 -- AUTO_INCREMENT for table `contact_us`
 --
 ALTER TABLE `contact_us`
-  MODIFY `id` bigint(20) UNSIGNED NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=271;
+  MODIFY `id` bigint(20) UNSIGNED NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=324;
 
 --
 -- AUTO_INCREMENT for table `failed_jobs`
@@ -1186,7 +1333,7 @@ ALTER TABLE `migrations`
 -- AUTO_INCREMENT for table `newsletters`
 --
 ALTER TABLE `newsletters`
-  MODIFY `id` bigint(20) UNSIGNED NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=3;
+  MODIFY `id` bigint(20) UNSIGNED NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=4;
 
 --
 -- AUTO_INCREMENT for table `new_settings`
@@ -1198,7 +1345,7 @@ ALTER TABLE `new_settings`
 -- AUTO_INCREMENT for table `products`
 --
 ALTER TABLE `products`
-  MODIFY `id` bigint(20) UNSIGNED NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=33;
+  MODIFY `id` bigint(20) UNSIGNED NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=119;
 
 --
 -- AUTO_INCREMENT for table `settings`
@@ -1210,19 +1357,19 @@ ALTER TABLE `settings`
 -- AUTO_INCREMENT for table `sliders`
 --
 ALTER TABLE `sliders`
-  MODIFY `id` bigint(20) UNSIGNED NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=15;
+  MODIFY `id` bigint(20) UNSIGNED NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=16;
 
 --
 -- AUTO_INCREMENT for table `sub_categories`
 --
 ALTER TABLE `sub_categories`
-  MODIFY `id` bigint(20) UNSIGNED NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=26;
+  MODIFY `id` bigint(20) UNSIGNED NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=29;
 
 --
 -- AUTO_INCREMENT for table `tags`
 --
 ALTER TABLE `tags`
-  MODIFY `id` bigint(20) UNSIGNED NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=4;
+  MODIFY `id` bigint(20) UNSIGNED NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=5;
 
 --
 -- AUTO_INCREMENT for table `users`

@@ -5,11 +5,11 @@
                 <!-- Top Left -->
                 <div class="top-left">
                     <ul class="list-main">
-                        
+
                         <li><i class="ti-headphone-alt"></i> {{$info->phone}} </li>
                         <li><i class="ti-email"></i> {{$info->email}} </li>
 
-                        
+
                     </ul>
                 </div>
                 <!--/ End Top Left -->
@@ -82,28 +82,36 @@
             </div>
             <div class="col-lg-2 col-md-3 col-12">
                 <div class="right-bar">
-                    
-                    
-                     <div class="sinlge-bar shopping">
-                        <a href="{{$info->facebook}}" class="single-icon"><i
-                                class="fa fa-facebook-square"></i>
-                    </div>
+
 
                     <div class="sinlge-bar shopping">
-                        <a href="" class="single-icon"><i class="fa fa-instagram"></i></a>
-                    </div>
-                    
-                    <!-- Search Form -->
-                    <!--<div class="sinlge-bar shopping">-->
-                    <!--    <a href="https://pallicraftsltd.com" class="single-icon"><i-->
-                    <!--            class="fa fa-heart-o"></i> <span class="total-count">0</span></a>-->
-                    <!--</div>-->
+                       <a href="https://www.facebook.com/pallicraftslimited/" target="_blank" class="single-icon"><i
+                               class="fa fa-facebook-square"> </i>
+                   </div>
 
-                    <!--<div class="sinlge-bar shopping">-->
-                    <!--    <a href="" class="single-icon"><i class="ti-bag"></i> <span-->
-                    <!--            class="total-count">0</span></a>-->
-                    <!--</div>-->
-                </div>
+                   <div class="sinlge-bar shopping">
+                       <a href="" class="single-icon"><i class="fa fa-instagram"></i></a>
+                   </div>
+
+                   <div class="sinlge-bar shopping">
+                       <a href="https://twitter.com/pallicraftsltd" target="_blank" class="single-icon"><i class="fa fa-twitter"></i></a>
+                   </div>
+
+                    <div class="sinlge-bar shopping">
+                       <a href="https://twitter.com/pallicraftsltd" target="_blank" class="single-icon"><i class="fa fa-linkedin-square"></i></a>
+                   </div>
+
+                   <!-- Search Form -->
+                   <!--<div class="sinlge-bar shopping">-->
+                   <!--    <a href="https://pallicraftsltd.com" class="single-icon"><i-->
+                   <!--            class="fa fa-heart-o"></i> <span class="total-count">0</span></a>-->
+                   <!--</div>-->
+
+                   <!--<div class="sinlge-bar shopping">-->
+                   <!--    <a href="" class="single-icon"><i class="ti-bag"></i> <span-->
+                   <!--            class="total-count">0</span></a>-->
+                   <!--</div>-->
+               </div>
             </div>
         </div>
     </div>
